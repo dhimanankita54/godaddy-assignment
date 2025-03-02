@@ -35,7 +35,7 @@ This is a simple React app that fetches and displays repositories from the [GoDa
    ```
 3. Start the development server:
    ```sh
-   npm start
+   npm run dev
    ```
 4. Open the app in your browser at `http://localhost:3000`.
 
